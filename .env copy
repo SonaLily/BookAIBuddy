@@ -1,0 +1,25 @@
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_cGxlYXNlZC1tb2xsdXNrLTMxLmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_T0sqqnZR4m4fbQxPqQo36sBqqRrSGfto5P5EjmfJUE
+
+CLERK_WEBHOOK_SECRET=whsec_nOzlYrHavmwyBqsNqdNk+Y+ZgTvXdBVs
+NEXT_PUBLIC_CLERK_SIGN_IN_URL=/sign-in
+NEXT_PUBLIC_CLERK_SIGN_UP_URL=/sign-up
+NEXT_PUBLIC_CLERK_AFTER_SIGN_IN_URL=/
+NEXT_PUBLIC_CLERK_AFTER_SIGN_UP_URL=/
+
+SUPABASE_URL=https://smtgbtdiovuffogsfjnk.supabase.co
+SUPABASE_SERVICE_KEY=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InNtdGdidGRpb3Z1ZmZvZ3Nmam5rIiwicm9sZSI6ImFub24iLCJpYXQiOjE3MzM4NzgxNjksImV4cCI6MjA0OTQ1NDE2OX0.QqEDQbJQsxp8ML2htOJI6ue7qzkg62lUYDLWxUz5R9w
+
+DATABASE_URL=postgresql://postgres.smtgbtdiovuffogsfjnk:8TlRpPIApYJEPRIc@aws-0-us-west-1.pooler.supabase.com:6543/postgres # Set this to the Transaction connection pooler string you copied in Step 1
+DIRECT_URL=postgresql://postgres.smtgbtdiovuffogsfjnk:8TlRpPIApYJEPRIc@aws-0-us-west-1.pooler.supabase.com:5432/postgres # Set this to the Session connection pooler string you copied in Step 1
+
+UPSTASH_REDIS_REST_URL="https://assured-marmot-25448.upstash.io"
+UPSTASH_REDIS_REST_TOKEN="AWNoAAIjcDE3YWM1YWQxNGU2MWQ0NzgyOGU4YjEwYTcyOTM1ZWUwM3AxMA"
+
+FRONTEND_URL=http://localhost:3000/
+
+STRIPE_SECRET_KEY=sk_test_51QUex02KF8qjiIpCEmqbpEh0cp51StZe53zzkWN9HfkC7WgtyNJ8Xzf4STBOduqc6uJMu6R2LrOzaBKmriZYjkJ0005lvt4mFq
+STRIPE_WEBHOOK_SECRET=whsec_CbEJysFNZbV1IO36FU6TMHgsI3LzUw1R
+NEXT_PUBLIC_STRIPE_PUBLIC_KEY=pk_test_51QUex02KF8qjiIpCRjs9c1UTbU0s2uQvstTQnJWhiZEJt1hcpHNcNVrDlH23orHveQohib1MgbwvmvmicxEjqEdT00j0DIruEt
+
+NEXT_PUBLIC_STRIPE_PRICE_ID=price_1QUfgL2KF8qjiIpCYauXGJke
